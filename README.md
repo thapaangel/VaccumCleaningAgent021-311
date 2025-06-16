@@ -8,7 +8,7 @@
 
 ---
 
-##  Overview
+##  About
 
 This project is a **simulation of a Vacuum Cleaner Agent** implemented in **Python** using **Tkinter** for graphical visualization. The agent operates in a 2D grid-based environment and simulates intelligent behavior using three different AI approaches:  
 
