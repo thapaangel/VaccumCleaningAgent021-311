@@ -4,7 +4,7 @@
 ### CRN: 021-311
 ### Subject: Artificial Intelligence 
 ***
-####ABOUT
+#### ABOUT
 Simulation (Python + Tkinter) This repository contains a simulation of a Vacuum Cleaner Agent implemented in Python using Tkinter for visualization. The agent operates within a 2D grid-based environment and demonstrates multiple types of intelligent agent behaviors:
 
 💡 Agent Types Implemented:
@@ -14,7 +14,7 @@ Simple Reflex Agent: Acts only based on the current tile’s condition (dirty/cl
 
 Goal-Based Agent with Memory: Tracks visited cells and targets the goal of cleaning all dirty cells using memory and directional logic.
 
-####🛠TOOLS USED
+#### TOOLS USED
 Python (3.x)
 Tkinter – for GUI graphics and animation
 VS Code – used as the development environment
