@@ -1,10 +1,10 @@
-# 🧹 Vacuum Cleaning Agent Simulation
+#  Vacuum Cleaning Agent Simulation
 
 ---
 
-### 👤 Name: Aruna Thapa  
-###    CRN: 021-311  
-###    Subject: Artificial Intelligence  
+###  Name: Aruna Thapa  
+###  CRN: 021-311  
+###  Subject: Artificial Intelligence  
 
 ---
 
@@ -47,7 +47,7 @@ The agent navigates the environment to clean randomly scattered dirt patches on 
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Language**: Python 3.x  
 - **GUI**: Tkinter (for real-time animation)  
@@ -55,10 +55,10 @@ The agent navigates the environment to clean randomly scattered dirt patches on 
 
 ---
 
-## 🖥 Features
+## Features
 
-- 🧼 **Real-time animation** of the vacuum agent cleaning a 6x6 grid.  
-- 🎲 **Random dirt generation** for a dynamic environment each time.  
-- 🧠 **Memory-aware decision making** in utility-based and goal-based agents.  
-- 🧾 **Console output** logs steps, moves, and final path taken.  
-- ⚙️ **Configurable settings**: grid size, delay, and dirt probability.
+- **Real-time animation** of the vacuum agent cleaning a 6x6 grid.  
+- **Random dirt generation** for a dynamic environment each time.  
+- **Memory-aware decision making** in utility-based and goal-based agents.  
+- **Console output** logs steps, moves, and final path taken.  
+- **Configurable settings**: grid size, delay, and dirt probability.
