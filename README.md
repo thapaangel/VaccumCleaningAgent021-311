@@ -1,7 +1,7 @@
 # LAB REPORT ON VACCUM CLEANING AGENT 
 ### Name: Aruna Thapa 
 ### CRN: 021-311
-### Subject: Artificial Intelligence
+### Subject: Artificial Intelligence ---
 Simulation (Python + Tkinter)
 This repository contains a simulation of a Vacuum Cleaner Agent implemented in Python using Tkinter for visualization. The agent operates within a 2D grid-based environment and demonstrates multiple types of intelligent agent behaviors:
 
